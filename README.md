@@ -17,7 +17,7 @@ I also enjoy UI & UX design.
  
  <details>
 <summary>
-  My code stats
+  Code stats
 </summary>
 
 
