@@ -32,11 +32,11 @@ I'm Andrés Santana a Full Stack Web Developer.
 
 <!--START_SECTION:waka-->
 ```text
-TypeScript   15 hrs 41 mins  ████████████████████▓░░░░   82.29 % 
-HTML         1 hr 50 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
-Markdown     1 hr 27 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
-Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
-YAML         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+TypeScript   6 hrs 8 mins    ████████████████▓░░░░░░░░   67.22 % 
+SCSS         59 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.78 % 
+Text         35 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
+HTML         26 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
+Bash         24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
 ```
 <!--END_SECTION:waka-->
 
