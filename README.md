@@ -19,7 +19,7 @@ I'm Andrés Santana a Full Stack Web Developer.
 
 <br >
 
-#### Coding Stats
+#### Weekly development breakdown
 
 <!--START_SECTION:waka-->
 ```text
