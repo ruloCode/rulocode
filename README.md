@@ -54,7 +54,8 @@ Bash         24 mins         ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=rulocode.rulocode)
 
 #### Community
-![master](https://user-images.githubusercontent.com/48034545/134590844-70bfdec2-4566-4aee-a78d-ecdc7292955b.png) 
+![master](https://user-images.githubusercontent.com/48034545/134591031-0e4c89a1-7be8-420b-a549-d47711e796d9.png)
+
 
 
 
