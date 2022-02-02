@@ -51,11 +51,6 @@ JSON         12 mins         ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 [javascripttutorial]: https://www.youtube.com/watch?v=D-LHKvmX37E 
 
 
-
-#### Profile Visits 
-
-
-
 #### Community
 ![master](https://user-images.githubusercontent.com/48034545/134591031-0e4c89a1-7be8-420b-a549-d47711e796d9.png)
 
