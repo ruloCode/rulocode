@@ -28,12 +28,12 @@ I also enjoy **UI** & **UX** design.
 
 <!--START_SECTION:waka-->
 ```text
-Week: 10 February, 2022 - 16 February, 2022
+Week: 11 February, 2022 - 17 February, 2022
 
-Total: 5 hrs 40 mins
+Total: 4 hrs 41 mins
 
-TypeScript   5 hrs 20 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀   94.12 % 
-SCSS         19 mins         ⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.75 % 
+TypeScript   4 hrs 21 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀   92.87 % 
+SCSS         19 mins         ⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.95 % 
 ```
 <!--END_SECTION:waka-->
 
