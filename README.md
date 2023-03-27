@@ -1,62 +1,19 @@
-## Hi I'm Rulo <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
-
-I'm Andrés Santana from Colombia,
-<br />
-I really enjoy learning **Front-end** technologies like **React** and **Next.js**.
-<br />
-I also enjoy **UI** & **UX** design.
+# 💫 About Me:
+🔭 I’m currently working on: strengthening my knowledge of TypeScript and React hooks.<br><br>👯 I’m looking to collaborate on: open-source projects related to web development and improving user experience.<br><br>🤝 I’m looking for help with: implementing serverless functions in my applications and optimizing website performance.<br><br>🌱 I’m currently learning: Next.js and GraphQL to expand my full-stack development skills.<br><br>💬 Ask me about: my experience with frontend frameworks like React, Vue, and Angular, and how to optimize website accessibility.<br><br>⚡ Fun fact: I'm a passionate digital nomad and have been able to work from various exotic locations around the world. I love the freedom and flexibility that this lifestyle provides, and I'm always on the lookout for new destinations to explore while still being able to work on exciting projects.
 
 
-:mailbox: You can reach me out at :
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rulocode) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rulocode) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/rulocode) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/rulo_code) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@rulocode3229) 
 
-[![Twitter Badge](https://img.shields.io/badge/-@rulo_code-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/rulo_code)](https://twitter.com/rulo_code) [![Linkedin Badge](https://img.shields.io/badge/-rulocode-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rulocode/) [![Mail Badge](https://img.shields.io/badge/-@rulocode-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/rulocode/) [![Mail Badge](https://img.shields.io/badge/-andres@rulocode.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](andres@rulocode.com)
+# 💻 Tech Stack:
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=plastic&logo=apollo-graphql) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=rulocode&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=rulocode&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rulocode&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://www.buymeacoffee.com/rulocode) 
 
-
-#### Top Technologies
-
-<!-- TODO: Make technologies links takes you to repositories -->
-[![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
- 
- <details>
-<summary>
-  Code stats
-</summary>
-
-
-#### ⏳Weekly development breakdown
-
-<!--START_SECTION:waka-->
-
-```text
-From: 19 March 2023 - To: 26 March 2023
-
-TypeScript   4 hrs 46 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀   66.48 %
-JavaScript   1 hr 14 mins    ⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   17.26 %
-JSON         29 mins         ⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.84 %
-HTML         26 mins         ⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.22 %
-CSS          5 mins          ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.21 %
-Bash         4 mins          ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.07 %
-```
-
-<!--END_SECTION:waka-->
-
-#### Github Stats
-
-![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=rulocode&count_private=true&theme=tokyonight&hide=contribs,prs)
-
-</details>
-
-
-[reactplaylist]: https://www.youtube.com/watch?v=KxXXEL-k47Y&list=PLvXDmnBbOF7RnYiZvDwl2Pzcs2kfi10wd
-[vscodetutorial]: https://www.youtube.com/watch?v=Bkie2ai8qeE&t=8s
-[htmltutorial]: https://www.youtube.com/watch?v=VK6MXVxOsws&t=27s
-[javascripttutorial]: https://www.youtube.com/watch?v=D-LHKvmX37E 
-
-
-#### Community
-![master](https://user-images.githubusercontent.com/48034545/134591031-0e4c89a1-7be8-420b-a549-d47711e796d9.png)
-
-
-
-
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
