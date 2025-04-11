@@ -1,3 +1,7 @@
+
+![WEB BANNER 33](https://github.com/user-attachments/assets/1ab11823-50a4-4044-b860-faf97e8f46fc)
+
+
 # 👨‍💻 About Me:
 - **Current Work:** Enhancing e-commerce & digital health platforms to boost engagement and conversion.
 - **Collaboration:** Front-end projects with a focus on UX, A/B testing, and web personalization.
