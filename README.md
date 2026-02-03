@@ -2,7 +2,7 @@
 Welcome and thanks for stopping by! I’m passionate about creating digital experiences that truly resonate with people. Every project is a journey of learning and collaboration.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/62aaa4cb-b1b7-47ab-9d55-cfc193e25ef1" alt="6o0">
+  <img src="assets/space-shooter.gif" alt="GitHub Space Shooter" />
 </p>
 
 - **Current Work:** I’m committed to enhancing e-commerce and digital health platforms to boost engagement and drive meaningful conversions.
