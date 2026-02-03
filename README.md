@@ -27,7 +27,7 @@ When I'm not coding, I'm writing songs and touring as a musician 🎵
 
 ### What I'm working on
 
-🏥 **Frontend Lead @ Vitau** — Leading the frontend of Mexico's fastest-growing digital pharmacy. Next.js 15, modular checkout, payment integrations, and healthcare automation with N8N.
+🏥 **Frontend Lead @ Vitau** — Leading the frontend of Mexico's fastest-growing digital pharmacy. Next.js, modular checkout, payment integrations, and healthcare automation with N8N.
 
 🎸 **Musician & Songwriter** — Performing live across the country. Building things by day, making music by night.
 
